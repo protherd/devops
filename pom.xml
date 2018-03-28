@@ -4,7 +4,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
-	<version>1.6.2-SNAPSHOT</version>
+	<version>1.6.2</version>
 	<packaging>war</packaging>
 
 	<name>devops</name>
@@ -42,7 +42,7 @@
 		<connection>scm:git:git@github.com:protherd/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:protherd/devops.git</developerConnection>
 		<url>git@github.com:protherd/devops.git</url>
-		<tag>HEAD</tag>
+		<tag>v1.6.2</tag>
 	</scm>
 
 	<dependencies>
